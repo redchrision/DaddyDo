@@ -1,3 +1,5 @@
+// Bibliography: Schwarzmüller M., 2022, React Native - The Practical Guide [2022], https://www.udemy.com/course/react-native-the-practical-guide/
+
 export const GlobalStyles = {
     colors: {
         primary50: '#e4d9fd',
